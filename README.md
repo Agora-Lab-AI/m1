@@ -103,7 +103,7 @@ evaluation_metrics:
 
 ```bash
 # Clone repository
-git clone https://github.com/m1-research/m1-music.git
+git clone https://github.com/Agora-Lab-AI/m1.git
 cd m1-music
 
 # Create environment
