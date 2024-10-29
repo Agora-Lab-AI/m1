@@ -176,7 +176,7 @@ If you use this code in your research, please cite:
   year={2024},
   publisher={GitHub},
   journal={GitHub repository},
-  howpublished={\url{https://github.com/m1-research/m1-music}}
+  howpublished={\url{https://github.com/Agora-Lab-AI/m1}}
 }
 ```
 
